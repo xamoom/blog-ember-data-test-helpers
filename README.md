@@ -102,3 +102,5 @@ would be as follows:
     
       testRelationships(assert, this.store(), "comment", expectedRelationshipsList);
     });
+
+Navigate to the blog post for a detailed, step-by-step tutorial on how to apply test-helpers: [How to apply xamoom ember-data test-helpers using TDD](https://xamoom.com/en/2016/03/2-simple-test-helpers-every-Ember-Data-developer-should-know/)(published on 15th March, 2016)
